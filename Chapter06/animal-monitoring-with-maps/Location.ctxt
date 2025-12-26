@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\n\ A\ grid\ location\ in\ the\ form\ of\ a\ letter/number\ pair;\n\ for\ instance\ C3,\ R101,\ etc.\n\n\ @author\ (your\ name)\n\ @version\ 7.0\n
+comment1.params=letter\ number
+comment1.target=Location(char,\ int)
+comment1.text=\n\ Create\ a\ Location\ object.\n\ @param\ letter\ The\ grid\ letter.\n\ @param\ number\ The\ grid\ number.\n
+comment2.params=
+comment2.target=char\ getLetter()
+comment2.text=\n\ Return\ the\ grid\ letter.\n\ @return\ the\ grid\ letter.\n
+comment3.params=
+comment3.target=int\ getNumber()
+comment3.text=\n\ Return\ the\ grid\ number.\n\ @return\ the\ grid\ number.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Return\ a\ composite\ of\ letter\ number.\n\ @return\ "C1",\ "R101",\ etc.\n
+comment5.params=
+comment5.target=int\ hashCode()
+comment5.text=\n\ Generate\ a\ unique\ hash\ code\ for\ the\ grid\ location.\n\ @return\ a\ hash\ code.\n
+comment6.params=other
+comment6.target=boolean\ equals(java.lang.Object)
+comment6.text=\n\ Determine\ whether\ this\ object\ is\ equal\ to\ other.\n\ @param\ other\ The\ other\ object\ to\ compare\ against.\n\ @return\ true\ if\ the\ objects\ represent\ the\ same\ location,\n\ \ \ \ \ \ \ \ \ false\ otherwise.\n
+numComments=7

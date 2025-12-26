@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AnimalMonitor
+comment0.text=\n\ Monitor\ counts\ of\ different\ types\ of\ animal.\n\ Sightings\ are\ recorded\ by\ spotters.\n\ \n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.1\n
+comment1.params=
+comment1.target=AnimalMonitor()
+comment1.text=\n\ Create\ an\ AnimalMonitor.\n
+comment2.params=filename
+comment2.target=void\ addSightings(java.lang.String)
+comment2.text=\n\ Add\ the\ sightings\ from\ the\ given\ file.\n\ @param\ filename\ A\ CSV\ file\ of\ recorded\ sightings.\n
+comment3.params=
+comment3.target=void\ printList()
+comment3.text=\n\ Print\ details\ of\ all\ the\ sightings.\n
+comment4.params=animal
+comment4.target=void\ printSightingsOf(java.lang.String)
+comment4.text=\n\ Print\ details\ of\ all\ the\ sightings\ of\ the\ given\ animal.\n\ @param\ animal\ The\ type\ of\ animal.\n
+comment5.params=spotter
+comment5.target=void\ printSightingsBy(int)
+comment5.text=\n\ Print\ all\ the\ sightings\ by\ the\ given\ spotter.\n\ @param\ spotter\ The\ ID\ of\ the\ spotter.\n
+comment6.params=animal
+comment6.target=int\ getCount(java.lang.String)
+comment6.text=\n\ Return\ a\ count\ of\ the\ number\ of\ sightings\ of\ the\ given\ animal.\n\ @param\ animal\ The\ type\ of\ animal.\n\ @return\ The\ count\ of\ sightings\ of\ the\ given\ animal.\n
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RecursionTester
+comment0.text=\n\ This\ class\ comtains\ some\ simple\ test\ methods\ to\ do\ initial\ experiments\n\ with\ recursive\ methods.\ These\ methods\ may\ be\ tested,\ examined\ and\ \n\ modified\ to\ gain\ experience\ with\ and\ understanding\ of\ recursive\ method\ calls\n\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.0\n
+comment1.params=
+comment1.target=void\ sayHello()
+comment1.text=\ \n\ Recursive\ 'hello'\ method.\n
+comment2.params=numberOfTimes
+comment2.target=void\ sayHello(int)
+comment2.text=\ \n\ Recursive\ 'hello'\ method\ with\ parameter.\n\ @param\ numberOfTimes\ How\ many\ times\ to\ print\ 'hello'.\n
+numComments=3

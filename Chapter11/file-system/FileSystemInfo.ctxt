@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FileSystemInfo
+comment0.text=\n\ A\ class\ providing\ information\ on\ aspects\ of\ a\ file\ system\n\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.1\n
+comment1.params=folderName
+comment1.target=void\ listFolder(java.lang.String)
+comment1.text=\n\ Print\ out\ the\ content\ of\ the\ folder\ given\ as\ a\ parameter.\n\ \n\ @param\ folderName\ The\ name\ of\ the\ folder\ to\ be\ listed.\n
+comment2.params=folder
+comment2.target=void\ listFolder(java.io.File)
+comment2.text=\n\ Print\ out\ the\ content\ of\ the\ folder\ given\ as\ a\ parameter.\n\ The\ given\ File\ should\ be\ a\ folder\ rather\ than\ a\ data\ file.\n\ Nothing\ will\ be\ printed\ if\ it\ is\ not\ a\ folder.\n\ \n\ @param\ folder\ The\ folder\ of\ interest.\n
+numComments=3

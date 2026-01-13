@@ -1,0 +1,33 @@
+#BlueJ class context
+comment0.target=CalcGUI
+comment0.text=\n\ A\ Calculator\ GUI\ in\ JavaFX.\n\ Start\ this\ class\ by\ choosing\ 'Run\ JavaFX\ Application'\ from\ the\ class\ menu.\n\n\ @author\ Michael\ K\u00F6lling\n\ @version\ 7.0\n
+comment1.params=event
+comment1.target=void\ infoClick(javafx.event.ActionEvent)
+comment10.params=grid\ text\ col\ row\ callback
+comment10.target=void\ addButton(javafx.scene.layout.GridPane,\ java.lang.String,\ int,\ int,\ javafx.event.EventHandler)
+comment10.text=\n\ Create\ a\ button\ with\ a\ given\ text\ and\ place\ it\ into\ the\ provided\n\ GridPane\ in\ the\ specified\ row\ and\ column.\n\ \n\ @param\ grid\ \ The\ GridPane\ to\ place\ the\ button\ into\n\ @param\ text\ \ The\ text\ to\ appear\ on\ the\ button\n\ @param\ col\ \ \ The\ column\ to\ place\ the\ button\ into\ (0..\ )\n\ @param\ row\ \ \ The\ row\ to\ place\ the\ button\ into\ (0..\ )\n\ @param\ callback\ The\ local\ method\ to\ be\ called\ when\ the\ button\ is\ clicked\n
+comment2.params=event
+comment2.target=void\ plusClick(javafx.event.ActionEvent)
+comment2.text=\n\ The\ 'plus'\ button\ was\ clicked.\n
+comment3.params=event
+comment3.target=void\ minusClick(javafx.event.ActionEvent)
+comment3.text=\n\ The\ 'minus'\ button\ was\ clicked.\n
+comment4.params=event
+comment4.target=void\ equalClick(javafx.event.ActionEvent)
+comment4.text=\n\ The\ '\='\ button\ was\ clicked.\n
+comment5.params=event
+comment5.target=void\ numberClick(javafx.event.ActionEvent)
+comment5.text=\n\ One\ of\ the\ number\ buttons\ was\ clicked.\n
+comment6.params=event
+comment6.target=void\ clearClick(javafx.event.ActionEvent)
+comment6.text=\n\ The\ 'C'\ button\ was\ clicked.\n
+comment7.params=
+comment7.target=void\ redisplay()
+comment7.text=\n\ Redisplay\ the\ current\ display\ value\ as\ defined\ by\ the\ calc\ engine.\n
+comment8.params=stage
+comment8.target=void\ start(javafx.stage.Stage)
+comment8.text=\n\ Start\ the\ application.\ First,\ build\ the\ GUI,\ then\ show\ it.\n
+comment9.params=
+comment9.target=javafx.scene.layout.Pane\ makeButtonPane()
+comment9.text=\n\ Create\ and\ return\ a\ GridPane\ with\ all\ the\ buttons\ needed\n\ for\ the\ calculator\ interface.\n
+numComments=11

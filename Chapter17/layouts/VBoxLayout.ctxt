@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=VBoxLayout
+comment0.text=\n\ Write\ a\ description\ of\ JavaFX\ class\ Layout\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\n\ The\ main\ entry\ point\ for\ JavaFX\ programs.\n
+numComments=2

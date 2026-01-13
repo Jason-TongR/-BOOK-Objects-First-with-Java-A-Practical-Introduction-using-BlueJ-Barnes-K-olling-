@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Voltage
+comment0.text=\n\ A\ voltage\ level.\n\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.0\n\ @param\ voltage\ A\ voltage\ level.\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ Get\ a\ String\ version\ of\ the\ value.\n\ @return\ A\ String\ version\ of\ the\ value.\n
+numComments=2

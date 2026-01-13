@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\n\ A\ record\ of\ a\ time.\n\ Used\ here\ to\ record\ the\ time\ a\ reading\ was\ taken.\n\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.3\n\ @param\ hour\ The\ hour\ of\ the\ reading.\n\ @param\ minute\ The\ minute\ of\ the\ reading.\n
+comment1.params=hour\ minute
+comment1.target=Time(int,\ int)
+comment1.text=\n\ Prevent\ an\ invalid\ time\ from\ being\ created.\n\ @param\ hour\ The\ hour\ of\ the\ reading.\n\ @param\ minute\ The\ minute\ of\ the\ reading.\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Return\ the\ time\ in\ the\ form\:\ hh\:mm.\n\ @return\ The\ time.\n
+comment3.params=val
+comment3.target=java.lang.String\ twoDigitString(int)
+comment3.text=\n\ Return\ val\ as\ a\ two-digit\ String.\n\ @param\ val\ The\ value\ to\ be\ formatted.\n
+numComments=4

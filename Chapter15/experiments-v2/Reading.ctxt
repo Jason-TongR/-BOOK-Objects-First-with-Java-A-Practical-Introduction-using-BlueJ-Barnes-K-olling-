@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Reading
+comment0.text=\n\ A\ single\ reading\ within\ an\ experimental\ run.\n\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.2\n\ @param\ value\ The\ value\ of\ the\ reading.\n\ @param\ time\ The\ time\ the\ reading\ was\ taken.\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ Get\ the\ reading\ and\ time.\n\ @return\ The\ reading\ and\ time.\n
+numComments=2

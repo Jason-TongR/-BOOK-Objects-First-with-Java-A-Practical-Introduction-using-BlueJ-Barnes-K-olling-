@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\n\ Model\ a\ location\ in\ a\ city.\n\ @param\ x\ The\ x\ coordinate.\ Must\ be\ positive.\n\ @param\ y\ The\ y\ coordinate.\ Must\ be\ positive.\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.1\n
+comment1.params=x\ y
+comment1.target=Location(int,\ int)
+comment1.text=\n\ Model\ a\ location\ in\ the\ city.\n\ @param\ x\ The\ x\ coordinate.\ Must\ be\ positive.\n\ @param\ y\ The\ y\ coordinate.\ Must\ be\ positive.\n\ @throws\ IllegalArgumentException\ If\ a\ coordinate\ is\ negative.\n
+comment2.params=destination
+comment2.target=Location\ nextLocation(Location)
+comment2.text=\n\ Generate\ the\ next\ location\ to\ visit\ in\ order\ to\n\ reach\ the\ destination.\n\ @param\ destination\ Where\ we\ want\ to\ get\ to.\n\ @return\ A\ location\ in\ a\ direct\ line\ from\ this\ to\n\ \ \ \ \ \ \ \ \ destination.\n
+comment3.params=destination
+comment3.target=int\ distance(Location)
+comment3.text=\n\ Determine\ the\ number\ of\ movements\ required\ to\ get\n\ from\ here\ to\ the\ destination.\n\ @param\ destination\ The\ required\ destination.\n\ @return\ The\ number\ of\ movement\ steps.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ @return\ A\ representation\ of\ the\ location.\n
+numComments=5

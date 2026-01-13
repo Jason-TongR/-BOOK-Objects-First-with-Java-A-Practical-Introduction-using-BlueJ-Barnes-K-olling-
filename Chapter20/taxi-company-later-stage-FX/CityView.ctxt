@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CityView
+comment0.text=\n\ CitiView\ provides\ a\ JavaFX\ component\ to\ draw\ the\ city\ with\ its\ actors\ in\ it.\n\ It\ is\ implemented\ as\ a\ subclass\ of\ the\ JavaFX\ Canvas.\n\n\ @author\ Michael\ K\u00F6lling\ and\ David\ J\ Barnes\n\ @version\ 7.0\n
+comment1.params=city
+comment1.target=CityView(City)
+comment1.text=\n\ Initialise\ the\ view.\n
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=void\ paintBackgound()
+comment3.text=\n\ Prepare\ for\ a\ new\ round\ of\ painting.\ Since\ the\ component\n\ may\ be\ resized,\ compute\ the\ scaling\ factor\ again.\n
+numComments=4

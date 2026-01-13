@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ExperimentalRun
+comment0.text=\n\ A\ single\ run\ of\ an\ experiment,\ recording\ multiple\ readings.\n\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.1\n
+comment1.params=ID\ readings
+comment1.target=ExperimentalRun(java.lang.String,\ java.util.List)
+comment1.text=\n\ @param\ ID\ The\ ID\ of\ the\ run.\n\ @param\ readings\ The\ list\ of\ readings\ taken\ on\ the\ run.\n
+comment2.params=
+comment2.target=java.lang.String\ getID()
+comment2.text=\n\ Get\ the\ ID.\n\ @return\ The\ ID.\n
+comment3.params=
+comment3.target=java.util.List\ getReadings()
+comment3.text=\n\ Get\ the\ readings.\n\ @return\ The\ readings.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Get\ the\ experiment's\ details.\n\ @return\ the\ ID\ and\ the\ readings.\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\n\ A\ grid\ location\ in\ the\ form\ of\ a\ row/column\ pair;\n\ for\ instance\ C3,\ R101,\ etc.\n\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.0\n
+comment1.params=
+comment1.target=java.util.List\ getNeighbors()
+comment1.text=\n\ Get\ the\ neighbors\ of\ this\ location.\n\ @return\ The\ list\ of\ neighbours.\n
+comment2.params=other
+comment2.target=int\ distance(Location)
+comment2.text=\n\ Get\ the\ Manhattan\ distance\ of\ this\ Location\ from\ another.\n\ @param\ other\ Another\ location.\n\ @return\ The\ Manhattan\ distance\ between\ the\ two\ locations.\n
+numComments=3

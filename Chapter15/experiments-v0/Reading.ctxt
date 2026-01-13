@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Reading
+comment0.text=\n\ A\ single\ data\ reading\ along\ with\ the\ time\ at\ which\ it\ was\ made.\n\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.0\n
+comment1.params=value\ time
+comment1.target=Reading(double,\ Time)
+comment1.text=\n\ Create\ a\ Reading\ object.\n\ @param\ value\ The\ value\ of\ the\ reading.\n\ @param\ time\ The\ time\ the\ reading\ was\ taken.\n
+comment2.params=
+comment2.target=double\ getValue()
+comment2.text=\n\ Get\ the\ value\ of\ the\ reading.\n\ @return\ The\ value.\n
+comment3.params=
+comment3.target=Time\ getTime()
+comment3.text=\n\ Get\ the\ time\ of\ the\ reading.\n\ @return\ The\ time.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Get\ the\ reading\ and\ time.\n\ @return\ The\ reading\ and\ time.\n
+numComments=5

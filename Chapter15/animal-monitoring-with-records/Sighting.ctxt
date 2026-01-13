@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sighting
+comment0.text=\n\ Details\ of\ a\ sighting\ of\ a\ type\ of\ animal\ by\ an\ individual\ spotter.\n\ \n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.2\n\ \n\ @param\ animal\ The\ animal\ spotted.\n\ @param\ spotter\ The\ ID\ of\ the\ spotter.\n\ @param\ count\ How\ many\ were\ seen\ (>\=\ 0).\n\ @param\ location\ The\ location\ in\ which\ they\ were\ seen.\n\ @param\ period\ The\ reporting\ period.\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ Return\ a\ string\ containing\ details\ of\ the\ animal,\ the\ number\ seen,\n\ where\ they\ were\ seen,\ who\ spotted\ them\ and\ when.\n\ @return\ A\ string\ giving\ details\ of\ the\ sighting.\n
+numComments=2

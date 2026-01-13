@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DataReader
+comment0.text=\n\ Read\ experimental\ data\ from\ file\ and\ return\ the\ runs\n\ in\ a\ list.\n\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.0\n
+comment1.params=
+comment1.target=DataReader()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ DataReader\n
+comment2.params=filename
+comment2.target=java.util.ArrayList\ getRuns(java.lang.String)
+comment2.text=\n\ Read\ experimental\ runs\ in\ CSV\ format\ from\ the\ given\ file.\n\ Return\ an\ ArrayList\ of\ ExperimentalRun\ objects\ created\ from\n\ the\ information\ in\ the\ file.\n\ \n\ @param\ filename\ The\ file\ to\ be\ read\ -\ should\ be\ in\ CSV\ format.\n\ @return\ A\ list\ of\ ExperimentalRuns.\n
+numComments=3

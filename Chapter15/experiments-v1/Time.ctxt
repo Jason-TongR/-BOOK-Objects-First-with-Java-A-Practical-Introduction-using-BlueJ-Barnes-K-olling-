@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\n\ A\ record\ of\ a\ time.\n\ Used\ here\ to\ record\ the\ time\ a\ reading\ was\ taken.\n\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\n\ @version\ 7.1\n\ @param\ hour\ The\ hour\ of\ the\ reading.\n\ @param\ minute\ The\ minute\ of\ the\ reading.\n
+numComments=1

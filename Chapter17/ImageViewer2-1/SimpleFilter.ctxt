@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SimpleFilter
+comment0.text=\n\ The\ SimpleFilter\ implements\ the\ main\ body\ of\ the\ filter's\ apply\n\ method,\ leaving\ only\ the\ newPixel\ method\ abstract.\ This\ class\ can\ be\ used\n\ as\ a\ superclass\ for\ all\ filters\ where\ the\ color\ of\ each\ pixel\ depends\ only\n\ on\ the\ single\ original\ pixel\ at\ the\ same\ position.\n\n\ @author\ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\n\ @version\ 1.0\n
+comment1.params=name
+comment1.target=SimpleFilter(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SimpleFilter.\n\ @param\ name\ The\ name\ of\ the\ filter.\n
+comment2.params=oldPixel
+comment2.target=javafx.scene.paint.Color\ newPixel(javafx.scene.paint.Color)
+comment2.text=\ \n\ Calculate\ a\ new\ color\ value\ from\ the\ original\ color.\n
+comment3.params=image
+comment3.target=void\ apply(OFImage)
+comment3.text=\n\ Apply\ this\ filter\ to\ an\ image.\n\ \n\ @param\ \ image\ \ The\ image\ to\ be\ changed\ by\ this\ filter.\n
+numComments=4

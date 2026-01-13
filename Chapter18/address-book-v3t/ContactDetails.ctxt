@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ContactDetails
+comment0.text=\n\ Name,\ address\ and\ telephone\ number\ details.\n\ \n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling.\n\ @version\ 7.1\n
+comment1.params=name\ phone\ address
+comment1.target=ContactDetails(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Set\ up\ the\ contact\ details.\ All\ details\ are\ trimmed\ to\ remove\n\ trailing\ white\ space.\n\ @param\ name\ The\ name.\n\ @param\ phone\ The\ phone\ number.\n\ @param\ address\ The\ address.\n\ @throws\ IllegalStateException\ If\ both\ name\ and\ phone\ are\ blank.\n
+comment2.params=otherDetails
+comment2.target=int\ compareTo(ContactDetails)
+comment2.text=\n\ Compare\ these\ details\ against\ another\ set,\ for\ the\ purpose\n\ of\ sorting.\ The\ fields\ are\ sorted\ by\ name,\ phone,\ and\ address.\n\ @param\ otherDetails\ The\ details\ to\ be\ compared\ against.\n\ @return\ a\ negative\ integer\ if\ this\ comes\ before\ the\ parameter,\n\ \ \ \ \ \ \ \ \ zero\ if\ they\ are\ equal\ and\ a\ positive\ integer\ if\ this\n\ \ \ \ \ \ \ \ \ comes\ after\ the\ second.\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ @return\ A\ multi-line\ string\ containing\ the\ name,\ phone,\ and\ address.\n
+numComments=4

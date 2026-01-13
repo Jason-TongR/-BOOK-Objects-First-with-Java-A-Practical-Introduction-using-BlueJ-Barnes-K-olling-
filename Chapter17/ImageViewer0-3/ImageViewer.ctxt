@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ImageViewer
+comment0.text=\n\ A\ very\ simple\ JavaFX\ demo\ class.\n\n\ @author\ Michael\ K\u00F6lling\n\ @version\ 0.3\n
+comment1.params=event
+comment1.target=void\ openAction(javafx.event.ActionEvent)
+comment1.text=\n\ The\ 'Open'\ item\ has\ been\ activated.\n
+comment2.params=event
+comment2.target=void\ quitAction(javafx.event.ActionEvent)
+comment2.text=\n\ The\ 'Quit'\ item\ has\ been\ activated.\n
+comment3.params=event
+comment3.target=void\ aboutAction(javafx.event.ActionEvent)
+comment3.text=\n\ The\ 'About\ ImageViewer'\ item\ has\ been\ activated.\n
+comment4.params=stage
+comment4.target=void\ start(javafx.stage.Stage)
+comment4.text=\n\ The\ main\ entry\ point\ for\ JavaFX\ programs.\n
+comment5.params=parent
+comment5.target=void\ makeMenuBar(javafx.scene.layout.Pane)
+comment5.text=\n\ Create\ the\ main\ frame's\ menu\ bar.\n\ @param\ frame\ \ \ The\ frame\ that\ the\ menu\ bar\ should\ be\ added\ to.\n
+numComments=6

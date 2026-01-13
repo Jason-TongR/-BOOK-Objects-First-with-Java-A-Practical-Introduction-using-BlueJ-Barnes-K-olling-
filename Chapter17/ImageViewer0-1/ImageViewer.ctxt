@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ImageViewer
+comment0.text=\n\ ImageViewer\ is\ the\ main\ class\ of\ the\ image\ viewer\ application.\ It\ builds\n\ and\ displays\ the\ application\ GUI\ and\ initialises\ all\ other\ components.\n\ \n\ This\ application\ uses\ JavaFX.\ To\ start\ it,\ use\ the\ BlueJ\ \n\ 'Run\ JavaFX\ Application'\ option\ in\ the\ class's\ context\ menu.\n\ \n\ @author\ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\n\ @version\ 0.1\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\n\ The\ main\ entry\ point\ for\ JavaFX\ programs.\n
+numComments=2

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ImageViewer
+comment0.text=\n\ The\ top\ level\ class\ of\ an\ image\ viewer\ application.\ This\ class\ sets\ up\ the\n\ interface\ and\ starts\ the\ application.\n\n\ @author\ Michael\ K\u00F6lling\n\ @version\ 0.4\n
+comment1.params=
+comment1.target=ImageViewer()
+comment1.text=\n\ Initialise\ the\ ImageViewer.\n
+comment2.params=event
+comment2.target=void\ openAction(javafx.event.ActionEvent)
+comment2.text=\n\ The\ 'Open'\ item\ has\ been\ activated.\n
+comment3.params=file
+comment3.target=void\ openFile(java.io.File)
+comment3.text=\n\ Open\ and\ display\ the\ specified\ image\ file.\n\ @param\ file\ \ The\ file\ to\ open.\ Must\ not\ be\ null.\n
+comment4.params=event
+comment4.target=void\ quitAction(javafx.event.ActionEvent)
+comment4.text=\n\ The\ 'Quit'\ item\ has\ been\ activated.\n
+comment5.params=event
+comment5.target=void\ aboutAction(javafx.event.ActionEvent)
+comment5.text=\n\ The\ 'About\ ImageViewer'\ item\ has\ been\ activated.\n
+comment6.params=stage
+comment6.target=void\ start(javafx.stage.Stage)
+comment6.text=\n\ The\ main\ entry\ point\ for\ JavaFX\ programs.\n
+comment7.params=parent
+comment7.target=void\ makeMenuBar(javafx.scene.layout.Pane)
+comment7.text=\n\ Create\ the\ main\ frame's\ menu\ bar.\n\ @param\ frame\ \ \ The\ frame\ that\ the\ menu\ bar\ should\ be\ added\ to.\n
+numComments=8
